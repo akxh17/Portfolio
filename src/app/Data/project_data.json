@@ -1,0 +1,83 @@
+[
+    {
+        "id":"1",
+        "img":"/Images/coursera.jpeg",
+        "title":"Coursera Clone",
+        "demo":"https://coursera-clone-six.vercel.app/",
+        "code":"https://github.com/akxh17/coursera-clone"
+
+    },
+    {
+        "id":"2",
+        "img":"/Images/calculator.jpeg",
+        "title":"Calculator",
+        "demo":"https://akxh17.github.io/calculator-react/",
+        "code":"https://github.com/akxh17/calculator-react"
+
+    },
+    {
+        "id":"3",
+        "img":"/Images/drum.jpeg",
+        "title":"Drum Machine",
+        "demo":"https://akxh17.github.io/drum-machine/",
+        "code":"https://github.com/akxh17/drum-machine"
+
+    },
+    {
+        "id":"4",
+        "img":"/Images/pomodoro.jpeg",
+        "title":"Pomodoro Timer",
+        "demo":"https://akxh17.github.io/pomodoro-timer/",
+        "code":"https://github.com/akxh17/pomodoro-timer"
+
+    },
+    {
+        "id":"5",
+        "img":"/Images/markdown.jpeg",
+        "title":"Markdown Preview",
+        "demo":"https://akxh17.github.io/markdown-previewer/",
+        "code":"https://github.com/akxh17/markdown-previewer"
+
+    },
+    {
+        "id":"6",
+        "img":"/Images/tenzies.jpeg",
+        "title":"Tenzies Game",
+        "demo":"https://akxh17.github.io/tenzies-app/",
+        "code":"https://github.com/akxh17/tenzies-app"
+
+    },
+    {
+        "id":"7",
+        "img":"/Images/todo.jpeg",
+        "title":"Todo List",
+        "demo":"https://akxh17.github.io/todo-app/",
+        "code":"https://github.com/akxh17/todo-app"
+
+    },
+    {
+        "id":"8",
+        "img":"/Images/quotes.jpeg",
+        "title":"Quote Generator",
+        "demo":"https://akxh17.github.io/quote-machine/",
+        "code":"https://github.com/akxh17/quote-machine"
+
+    },
+    {
+        "id":"9",
+        "img":"/Images/pokemon.jpeg",
+        "title":"Pokemon Card",
+        "demo":"https://akxh17.github.io/pokemon-app/",
+        "code":"https://github.com/akxh17/pokemon-app"
+
+    },
+    {
+        "id":"10",
+        "img":"/Images/roman.jpeg",
+        "title":"Roman Numerals",
+        "demo":"https://akxh17.github.io/roman-numeral/",
+        "code":"https://github.com/akxh17/roman-numeral"
+
+    }
+
+]
