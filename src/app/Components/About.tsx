@@ -22,7 +22,7 @@ function About() {
       </div>
       <button className="about--button">
         <Link
-          href="./Akash_Suresh_Resume.pdf"
+          href="/Akash_Suresh_Resume.pdf"
           target="_blank"
           className="download--link"
         >
