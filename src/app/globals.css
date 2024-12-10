@@ -93,9 +93,11 @@ body {
   text-decoration: none;
   color: #606470;
   font-size: 22px;
+  transition: transform 1000ms;
 }
 
 .nav--link:hover {
+  transform: translateY(0.5rem);
   color: #2470a0;
 }
 
@@ -177,10 +179,12 @@ body {
   margin: 20px;
   border: none;
   cursor: pointer;
+  transition: transform 750ms;
 }
 
 .about--button:hover {
   background-color: #2470a0;
+  transform : translateY(-1rem);
 }
 
 .download--link {
@@ -216,9 +220,11 @@ body {
   justify-content: center;
   align-items: center;
   gap: 15px;
+  transition: transform 1000ms;
 }
 
 .project--detail-container:hover {
+  transform : translateY(-1.50rem);
   box-shadow: 0 8px 10px rgba(0, 0, 0, 0.5);
 }
 .card--image {
@@ -281,10 +287,12 @@ body {
 
 .link--icon {
   font-size: 70px;
+  transition: transform 1000ms;
 }
 
 .link--icon:hover {
   color: #2470a0;
+  transform: translateY(-1rem);
 }
 
 @media (max-width: 1750px) {
