@@ -24,6 +24,7 @@ function About() {
         <Link
           href="/Akash_Suresh_Resume.pdf"
           target="_blank"
+          rel="noopener noreferrer"
           className="download--link"
         >
           Download Resume
